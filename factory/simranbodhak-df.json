@@ -1,0 +1,9 @@
+{
+	"name": "simranbodhak-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5d496e00-c1b7-46eb-b57c-873532c0d5fe",
+		"tenantId": "46abc138-21f8-4b03-ab72-a6f194f45b57"
+	}
+}
